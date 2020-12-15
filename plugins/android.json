@@ -1,0 +1,35 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.kakao.login"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.kakao.login"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "com.kakao.login"
+    },
+    "cordova-plugin-kakao-sdk": {
+      "KAKAO_APP_KEY": "7416bc427df92999565f4cf436d1aba0",
+      "PACKAGE_NAME": "com.kakao.login"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.kakao.login"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.kakao.login"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.kakao.login"
+    }
+  },
+  "dependent_plugins": {}
+}

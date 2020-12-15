@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kakao Login Test</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="kakao_app_key">7416bc427df92999565f4cf436d1aba0</string>
+    <string name="kakao_scheme">kakao7416bc427df92999565f4cf436d1aba0</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
